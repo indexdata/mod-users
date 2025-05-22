@@ -1,3 +1,7 @@
+## 19.3.2-indexdata.1 2025-05-22
+
+* KAFKA_ENABLE env (MODUSERS-525)
+
 ## 19.3.2 2024-09-04
 
 * Slow search in the Users app (MODUSERS-457)
