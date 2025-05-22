@@ -1,3 +1,7 @@
+## 19.3.2-indexdata.2 2025-05-22
+
+* Fix typo
+
 ## 19.3.2-indexdata.1 2025-05-22
 
 * KAFKA_ENABLE env (MODUSERS-525)
